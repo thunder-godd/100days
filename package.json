@@ -1,0 +1,22 @@
+{
+  "name": "100days",
+  "version": "1.0.0",
+  "description": "100days",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thunder-godd/100days.git"
+  },
+  "author": "thunder-godd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thunder-godd/100days/issues"
+  },
+  "homepage": "https://github.com/thunder-godd/100days#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
