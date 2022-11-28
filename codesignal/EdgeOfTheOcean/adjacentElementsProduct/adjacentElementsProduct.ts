@@ -1,4 +1,4 @@
-function solution(inputArray: number[]): number {
+function solution4(inputArray: number[]): number {
 	const len: number = inputArray.length;
 	let prods: number[] = [];
 	for (let i = 0; i < len - 1; i++) {
